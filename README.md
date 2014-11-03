@@ -2,3 +2,4 @@ assignment
 ==========
 
 ok
+love
